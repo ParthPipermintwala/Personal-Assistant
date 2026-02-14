@@ -35,7 +35,8 @@ def processorWorker(text_queue, response_queue, stop_event, interrupt_event, ui)
             continue
 
         command = command.replace("alexa", "").replace("jarvis", "").strip()
-            
+        command=command.replace("  "," ")
+        
         # Stop the program
         if "stop" in command :
             interrupt_event.set()

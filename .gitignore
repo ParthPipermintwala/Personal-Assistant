@@ -72,3 +72,5 @@ htmlcov/
 *.tmp
 *.temp
 *.bak
+
+README.md
