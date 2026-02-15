@@ -114,15 +114,19 @@ Clone or download the repository.<br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
 </div>
 
-## 🎮 Feature Demo Commands
+## 🗂️ Feature Demo Commands
 
-Try these example voice prompts:
+Start every command with the wake word `jarvis` or `alexa` (example: "Jarvis, open YouTube").
 
-- "Open YouTube"
-- "Play music"
-- "Tell me the latest news"
-- "What time is it?"
-- "Shutdown the system"
+| Category | Example Command | What It Does |
+|----------|------------------|--------------|
+| Apps/Web | "Jarvis, open YouTube" | Opens a website or app |
+| Media | "Alexa, play music" | Starts music playback |
+| Info | "Jarvis, tell me the latest news" | Reads live headlines |
+| System | "Alexa, what time is it?" | Speaks current time |
+| Power | "Jarvis, shutdown the system" | Shuts down the PC |
+| Session | "Jarvis, stop" | Stops the current response |
+| Session | "Alexa, exit" | Closes the assistant |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
