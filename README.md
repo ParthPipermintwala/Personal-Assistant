@@ -17,11 +17,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ParthPipermintwala/Personal-AI-Assistant/releases/tag/v1.1">
-    <img src="https://img.shields.io/github/v/release/ParthPipermintwala/Personal-AI-Assistant?style=for-the-badge" />
+  <a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/tag/v1.1">
+    <img src="https://img.shields.io/github/v/release/ParthPipermintwala/Personal-Assistant?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/github/license/ParthPipermintwala/Personal-AI-Assistant?style=for-the-badge" />
-  <a href="https://github.com/ParthPipermintwala/Personal-AI-Assistant/releases/download/v1.1/Assistant.zip">
+  <img src="https://img.shields.io/github/license/ParthPipermintwala/Personal-Assistant?style=for-the-badge" />
+  <a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/download/v1.1/Assistant.zip">
     <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-00C853?style=for-the-badge" />
   </a>
 </div>
@@ -61,7 +61,7 @@ Built as a **portfolio-grade application** with production-style structure and t
 Download the standalone EXE file.<br/>
 **No Python installation required!**
 
-<a href="https://github.com/ParthPipermintwala/Personal-AI-Assistant/releases/download/v1.1/Assistant.zip">
+<a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/download/v1.1/Assistant.zip">
   <img src="https://img.shields.io/badge/Download-Assistant.zip-00C853?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
@@ -73,7 +73,7 @@ Download the standalone EXE file.<br/>
 Clone or download the repository.<br/>
 **For developers & contributors**
 
-<a href="https://github.com/ParthPipermintwala/Personal-AI-Assistant/archive/refs/tags/v1.1.zip">
+<a href="https://github.com/ParthPipermintwala/Personal-Assistant/archive/refs/tags/v1.1.zip">
   <img src="https://img.shields.io/badge/Download-Source%20Code-0078D6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -81,7 +81,7 @@ Clone or download the repository.<br/>
 </tr>
 </table>
 
-<a href="https://github.com/ParthPipermintwala/Personal-AI-Assistant/releases/tag/v1.1">
+<a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/tag/v1.1">
   <img src="https://img.shields.io/badge/View-All%20Releases-FF6F00?style=for-the-badge&logo=github" />
 </a>
 
@@ -205,8 +205,8 @@ Restart the terminal after setting it.
 ## ⚙️ Developer Setup
 
 ```bash
-git clone https://github.com/ParthPipermintwala/Personal-AI-Assistant
-cd Personal-AI-Assistant
+git clone https://github.com/ParthPipermintwala/Personal-Assistant
+cd Personal-Assistant
 pip install -r requirements.txt
 python main.py
 ```
