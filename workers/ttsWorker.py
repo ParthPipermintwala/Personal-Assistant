@@ -14,4 +14,5 @@ def ttsWorker(response_queue, stop_event, interrupt_event, mic_stop_event, ui):
         interrupt_event.clear() # Clear interrupt event before speaking
         speak(text, interrupt_event, isAlexa)
         mic_stop_event.clear()
+        ui.update_heard("")
         response_queue.task_done()
